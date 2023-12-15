@@ -31,15 +31,22 @@ body {
   min-height: 100%;
   font-size: 62.5%;
   background-color: #141720;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Share Tech Mono', sans-serif;
   color: #F7F7F6;
   display: flex;
   flex-direction: column; }
   body.page--detail .site__title {
     margin-top: 0; }
 
+    .box {
+      background-color: #000;
+      color: #fff;
+      opacity: .85;
+      padding: 3%;
+    }
+
 h1, h2, h3, h4, h5, .title {
-  font-family: 'Rufina', serif; }
+  font-family: 'Kalnia'; }
 
 a {
   text-decoration: none;
@@ -85,7 +92,7 @@ nav {
   line-height: 2.5; }
 
 .nav__item {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Share Tech Mono', sans-serif;
   font-size: 1.4rem;
   color: #141720;
   letter-spacing: 1.45px;
@@ -132,7 +139,7 @@ nav {
     bottom: -1.3rem; }
 
 .site__description {
-  color: #c1bfbf;
+  color: #ffffff;
   font-size: 1.2rem;
   font-weight: 200;
   padding-top: 1rem;
@@ -150,7 +157,7 @@ nav {
   color: black;
   margin: 2rem 5rem 0 5rem;
   font-size: 1.2rem;
-  font-family: 'Source Sans Pro', sans-serif; }
+  font-family: 'Share Tech Mono', sans-serif; }
 
 .site__navigation {
   display: flex;
@@ -173,7 +180,7 @@ nav {
       margin: 0;
       font-size: 1.2rem;
       line-height: 1.5rem;
-      font-family: 'Source Sans Pro', sans-serif;
+      font-family: 'Share Tech Mono', sans-serif;
       font-weight: 800;
       color: white; }
   .site__navigation .site__navigation_items--right {
@@ -274,7 +281,7 @@ nav {
 .episode__title h4 {
   font-size: 1.6rem;
   margin: 1rem 0 .3rem 0;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Share Tech Mono', sans-serif;
   color: #F7F7F6; }
   .episode__title h4:hover {
     color: #5D6BCF; }
@@ -341,7 +348,7 @@ nav {
         pointer-events: all;
         box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.32); }
   .audio-player .controls {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Share Tech Mono', sans-serif;
     font-size: 16px;
     line-height: 18px;
     color: #55606E;

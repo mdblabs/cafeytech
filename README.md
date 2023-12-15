@@ -16,7 +16,7 @@ First make sure you have [Sass](https://sass-lang.com/) installed, then `cd` to 
 ## Credits
 *   [Particles.js](https://github.com/VincentGarreau/particles.js/)
 *   [Google Fonts - Rufina](https://fonts.google.com/specimen/Rufina)
-*   [Google Fonts - Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro)
+*   [Google Fonts - Share Tech Mono](https://fonts.google.com/specimen/Source+Sans+Pro)
 *   [Font Awesome v4](http://fontawesome.io/)
 *   [Music by Comfort Fit](http://freemusicarchive.org/music/Comfort_Fit/) for example.mp3
 
